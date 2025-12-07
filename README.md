@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Pedro Souza
 
-**`Desenvolvedor BackEnd / Estudante em Engenharia de Dados`**
+**`Desenvolvedor BackEnd`**
 
-Me chamo Pedro Henrique, tenho 18 anos e sou de Americana, São Paulo. Concluí o ensino médio na Etec Polivalente de Americana, junto ao curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e por aprender coisas novas. Atualmente, estou em busca do meu primeiro emprego na área de TI e tenho grande interesse pelo universo de dados e suas aplicações no mundo atual.
+Me chamo Pedro Henrique, tenho 18 anos e sou de Americana, São Paulo. Concluí o ensino médio na Etec Polivalente de Americana, junto ao curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e por aprender coisas novas. Atualmente, estou em busca do meu primeiro emprego na área de TI e tenho grande interesse pelo universo de dados e suas aplicações no mundo atual, me inspirando a me tornar um profissional na área.
 
 
 ### 🤖 Linguagens e Tecnologias
