@@ -1,6 +1,6 @@
 # Pedro Souza
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor BackEnd`** **`IA e Data Student`**
 
 Me chamo Pedro Henrique, tenho 18 anos e sou de Americana/SP. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento de Sistemas peka Etec Polivalente de Americana. Tenho grande interesse em desenvolvimento back-end, dados e IA. Busco evoluir constantemente com certificações e curso, valorizando autoaprendizagem, aprendizado continuo e novos desafios.
 
@@ -55,7 +55,7 @@ Me chamo Pedro Henrique, tenho 18 anos e sou de Americana/SP. Concluí o ensino 
     title="Node.Js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
