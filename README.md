@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`** **`IA e Data Student`**
 
-Me chamo Pedro Henrique, tenho 18 anos e sou de Americana/SP. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento de Sistemas peka Etec Polivalente de Americana. Tenho grande interesse em desenvolvimento back-end, dados e IA. Busco evoluir constantemente com certificações e curso, valorizando autoaprendizagem, aprendizado continuo e novos desafios.
+Me chamo Pedro Henrique e sou de Americana/SP. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento de Sistemas pela Etec Polivalente de Americana e, atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana. Tenho grande interesse em desenvolvimento back-end, dados e IA. Busco evoluir constantemente com certificações e cursos, valorizando a autoaprendizagem, o aprendizado contínuo e novos desafios.
 
 
 ### 🤖 Linguagens e Tecnologias
