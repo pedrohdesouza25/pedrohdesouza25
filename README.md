@@ -51,8 +51,8 @@ Me chamo Pedro Henrique, tenho 18 anos e sou de Americana/SP. Concluí o ensino 
 />
 <img 
     align="left" 
-    alt="Node.Js" 
-    title="Node.Js"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
@@ -97,6 +97,22 @@ Me chamo Pedro Henrique, tenho 18 anos e sou de Americana/SP. Concluí o ensino 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spark" 
+    title="Spark"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
 />
 
 <br/>
