@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`** **`IA and Data Student`**
 
-Me chamo Pedro Henrique e sou de Americana/SP. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento de Sistemas pela Etec Polivalente de Americana e, atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana. Tenho grande interesse em desenvolvimento back-end, dados e IA. Busco evoluir constantemente com certificações e cursos, valorizando a autoaprendizagem, aprendizado contínuo e novos desafios.
+Me chamo Pedro Henrique e sou de Americana/SP. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento de Sistemas pela Etec Polivalente de Americana, e agora sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana. Tenho grande interesse em desenvolvimento back-end, dados e IA. Busco evoluir constantemente com certificações e cursos, valorizando a autoaprendizagem e novos desafios.
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -57,14 +57,7 @@ Me chamo Pedro Henrique e sou de Americana/SP. Concluí o ensino médio integrad
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -81,14 +74,6 @@ Me chamo Pedro Henrique e sou de Americana/SP. Concluí o ensino médio integrad
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
